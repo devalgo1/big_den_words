@@ -3,7 +3,7 @@
   "wake_word": "nind'za!!",
   "author": "Aleksey",
   "website": "https://www.ya.com/",
-  "model": "./nind'za!!.tflite",
+  "model": "https://github.com/devalgo1/big_den_words/blob/main/nind'za!!.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
