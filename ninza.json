@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "nind'za!!",
-  "author": "Aleksey",
-  "website": "https://www.ya.com/",
-  "model": "https://github.com/devalgo1/big_den_words/blob/main/ninza.tflite",
+  "wake_word": "ninza",
+  "author": "devalgo",
+  "website": "https://www.ya.ru/",
+  "model": "./ninza.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
