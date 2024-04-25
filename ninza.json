@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "ninza",
+  "wake_word": "nind'za!!",
   "author": "devalgo",
   "website": "https://www.ya.ru/",
   "model": "./ninza.tflite",
