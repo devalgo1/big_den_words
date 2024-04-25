@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "nind'za!!",
   "author": "devalgo",
-  "website": "https://www.ya.ru/",
-  "model": "nind'za!! (1).tflite",
+  "website": "https://www.kevinahrendt.com/",
+  "model": "./nind'za!! (1).tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
