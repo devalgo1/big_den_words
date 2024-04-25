@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "nind'za!!",
   "author": "devalgo",
-  "website": "https://www.kevinahrendt.com/",
+  "website": "https://ya.ru/",
   "model": "./nindza2.tflite",
   "version": 1,
   "micro": {
