@@ -3,7 +3,7 @@
   "wake_word": "nind'za!!",
   "author": "devalgo",
   "website": "https://ya.ru/",
-  "model": "./nindza2.tflite",
+  "model": "https://github.com/devalgo1/big_den_words/raw/main/ninza.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
