@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "ninza",
+  "wake_word": "hey_jarvis",
   "author": "devalgo",
   "website": "https://ya.ru/",
-  "model": "https://github.com/devalgo1/big_den_words/raw/main/ninza.tflite",
+  "model": "https://github.com/devalgo1/big_den_words/raw/main/hey_jarvis.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
