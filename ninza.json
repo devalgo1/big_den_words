@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "neezaa",
+  "wake_word": "neenzaa",
   "author": "devalgo",
   "website": "https://ya.ru/",
-  "model": "https://github.com/devalgo1/big_den_words/raw/main/neezaa.tflite",
+  "model": "https://github.com/devalgo1/big_den_words/raw/main/neenzaa.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
